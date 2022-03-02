@@ -1,0 +1,1 @@
+# K-map_calculator_for_synchronous_counter
